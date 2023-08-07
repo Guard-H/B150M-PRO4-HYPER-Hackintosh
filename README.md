@@ -2,52 +2,46 @@
 
  B150M-PRO4/HYPER OpenCore EFI Firmware
 
-## 사양 
+## 规格 
 
-B150M-PRO4/HYPER에서 사용가능한 EFI입니다.
+EFI 适用于 B150M-PRO4/HYPER
+我使用 OpenCore v0.6.6
 
-오픈코어(OpenCore) v0.6.6을 사용합니다.
+## 配置
 
-
-
-## 사양
-
-- CPU: Intel Core i5-6600
-- M/B: Asrock b150m pro4/hyper
-- RAM: DDR4 2133 24GB(8+8+4+4)
-- VGA: OC Radeon RX570 4GB
-- SSD: Samsung 850 evo SATA SSD 250 GB (for macOS)
-- ​         WD Black SN700 NVMe 500GB (for Win10)
-- HDD: WD Blue WD20EZAZ 2TB (for DATA)
-- Sound: Realtek ALC892
-- LAN: Intel I219-V
-- Wi-Fi/BT: Broadcom BCM94350ZAE
+- CPU：英特尔酷睿i5-6600
+- 主板：Asrock b150m pro4/hyper
+- 内存：DDR4 2133 24GB（8+8+4+4）
+- 显卡：超频 Radeon RX570 4GB
+- SSD：三星 850 evo SATA SSD 250 GB（适用于 macOS）
+​     西数 Black SN700 NVMe 500GB（适用于Win10）
+- 硬盘：西数 Blue WD20EZAZ 2TB（用于数据）
+- 声音：瑞昱ALC892
+- 网卡：英特尔I219-V
+- Wi-Fi/BT：博通 BCM94350ZAE
 
 
 
-## 작동하는 것
+## - Wi-Fi/BT（安装单独的卡）
 
-- Wi-Fi/BT (별도 카드 장착)
-- 3.5파이 오디오
-- USB 포트
-- 이더넷
-- QE/CI
-- 헤드리스
+- 3.5 馅饼音频
+-USB端口
+- 以太网
+-量化宽松/持续投资
+- 无头
 
 
-## 안 되는 것
+## 什么不起作用
 
-- 잠자기
+- 睡觉
 
-## BIOS 설정
+## BIOS 环境
 
 - 
 
+## EFI 配置
 
-
-## EFI 구성
-
-### Kexts
+### 内核扩展
 
 - [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup) v2.1.2
 - [AppleALC](https://github.com/acidanthera/AppleALC) v1.5.7
@@ -77,8 +71,3 @@ B150M-PRO4/HYPER에서 사용가능한 EFI입니다.
 - SSDT-OSYS : macOS check fix
 - SSDT-PLUG : Enable XCPM
 
-
-
-## 참고자료
-
-- https://dortania.github.io/OpenCore-Install-Guide
