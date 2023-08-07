@@ -14,26 +14,24 @@ EFI 适用于 B150M-PRO4/HYPER
 - 内存：DDR4 2133 24GB（8+8+4+4）
 - 显卡：超频 Radeon RX570 4GB
 - SSD：三星 850 evo SATA SSD 250 GB（适用于 macOS）
-​     西数 Black SN700 NVMe 500GB（适用于Win10）
+​       西数 Black SN700 NVMe 500GB（适用于Win10）
 - 硬盘：西数 Blue WD20EZAZ 2TB（用于数据）
 - 声音：瑞昱ALC892
 - 网卡：英特尔I219-V
 - Wi-Fi/BT：博通 BCM94350ZAE
 
+## - 什么有效
 
-
-## - Wi-Fi/BT（安装单独的卡）
-
-- 3.5 馅饼音频
--USB端口
+- Wi-Fi/BT（安装单独无线网卡）
+- 3.5音频
+- USB端口
 - 以太网
--量化宽松/持续投资
+- QE/CI
 - 无头
-
 
 ## 什么不起作用
 
-- 睡觉
+- 睡眠
 
 ## BIOS 环境
 
