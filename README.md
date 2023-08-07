@@ -5,7 +5,7 @@
 ## 规格 
 
 EFI 适用于 B150M-PRO4/HYPER
-我使用 OpenCore v0.6.6
+使用 OpenCore v0.6.6
 
 ## 配置
 
