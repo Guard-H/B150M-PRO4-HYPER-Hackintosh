@@ -14,7 +14,7 @@
 - 内存：DDR4 2133 24GB（8+8+4+4）
 - 显卡：超频 Radeon RX570 4GB
 - SSD：三星 850 evo SATA SSD 250 GB（适用于 macOS）
-​       西数 Black SN700 NVMe 500GB（适用于Win10）
+-      西数 Black SN700 NVMe 500GB（适用于Win10）
 - 硬盘：西数 Blue WD20EZAZ 2TB（用于数据）
 - 声音：瑞昱ALC892
 - 网卡：英特尔I219-V
