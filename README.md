@@ -1,11 +1,11 @@
 # B150M-PRO4-HYPER-Hackintosh
 
- B150M-PRO4/HYPER OpenCore EFI Firmware
+- B150M-PRO4/HYPER OpenCore EFI Firmware
 
 ## 规格 
 
-EFI 适用于 B150M-PRO4/HYPER
-使用 OpenCore v0.6.6
+- EFI 适用于 B150M-PRO4/HYPER
+- 使用 OpenCore v0.6.6
 
 ## 配置
 
@@ -20,7 +20,7 @@ EFI 适用于 B150M-PRO4/HYPER
 - 网卡：英特尔I219-V
 - Wi-Fi/BT：博通 BCM94350ZAE
 
-## - 什么有效
+## 什么有效
 
 - Wi-Fi/BT（安装单独无线网卡）
 - 3.5音频
@@ -33,7 +33,7 @@ EFI 适用于 B150M-PRO4/HYPER
 
 - 睡眠
 
-## BIOS 环境
+## BIOS 设置
 
 - 
 
